@@ -10,9 +10,17 @@ Saya lahir di Sidoarjo 💒. Sering dipanggil Eko/Ndan. Saya menyukai bidang kom
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-![Eko Budi  GitHub stats](https://github-readme-stats.vercel.app/api?username=ekobudigs&show_icons=true&theme=algolia)
+<!-- ![Eko Budi  GitHub stats](https://github-readme-stats.vercel.app/api?username=ekobudigs&show_icons=true&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekobudigs&layout=compact)](https://github.com/ekobudigs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekobudigs&layout=compact)](https://github.com/ekobudigs/github-readme-stats) -->
+
+
+<a href="https://github.com/ekobudigs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekobudigs&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/ekobudigs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ekobudigs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
 
 
