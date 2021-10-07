@@ -1,16 +1,21 @@
 ## Hey 👋, I'm Eko Budi!
 
 
-Saya lahir di Sidoarjo 💒. Sering dipanggil Eko/Ndan. Saya menyukai bidang komputer 💻 sejak SMP  dan saya tertarik dalam web devploment 💻  Dan Server ⌨️, Setelah lulus SMA 🎓 Saya masuk di magistra surabaya 🎓. Setelah lulus disana saya menempuh kuliah di Jurusan Teknik Informatika dan sekarang semester 7 🎓.  Saya sangat menyukai Redisign web yang sudah jadi untuk saya pelajari isinya dan saya kembangkan lagi, saya sangat senang dengan hal baru seperti instal wordpres di server linux dengan menggunkan runcloud, membuat vps di aws untuk menjalankan bot agar bisa jalan 24jam Dan suka membuat conten promosi untuk Bisnis Online saya 
+Saya lahir di Sidoarjo 💒. Sering dipanggil Eko/Ndan. Saya menyukai bidang komputer 💻 sejak SMP  dan saya tertarik dalam web devploment 💻  Dan Server ⌨️, Setelah lulus SMA 🎓 Saya masuk di magistra surabaya 🎓. Setelah lulus disana saya menempuh kuliah di Jurusan Teknik Informatika dan sekarang semester 7 🎓.  Saya sangat menyukai Redisign web yang sudah jadi untuk saya pelajari isinya dan saya kembangkan lagi, saya sangat senang dengan hal baru seperti instal wordpres di server linux dengan menggunkan runcloud, membuat vps di aws untuk menjalankan bot agar bisa jalan 24jam Dan suka membuat conten promosi untuk Bisnis Online. 
 <br/>
 <br/>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a Junior Web Developer</h3>
+
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/ekobudigs/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/ekobudigs/github-stats-transparent/output/generated/languages.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ekobud12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ekobud12" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="as" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🔨 Languages and Tools:</h3>
