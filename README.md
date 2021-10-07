@@ -12,6 +12,9 @@ Saya lahir di Sidoarjo 💒. Sering dipanggil Eko/Ndan. Saya menyukai bidang kom
   
 ![Eko Budi  GitHub stats](https://github-readme-stats.vercel.app/api?username=ekobudigs&show_icons=true&theme=algolia)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekobudigs&layout=compact)](https://github.com/ekobudigs/github-readme-stats)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
