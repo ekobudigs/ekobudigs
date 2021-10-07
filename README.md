@@ -18,7 +18,7 @@ Saya lahir di Sidoarjo 💒. Sering dipanggil Eko/Ndan. Saya menyukai bidang kom
 <a href="https://github.com/ekobudigs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekobudigs&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://ndan-eko.000webhostapp.com/">
+<a href="https://github.com/ekobudigs">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ekobudigs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
@@ -27,7 +27,7 @@ Saya lahir di Sidoarjo 💒. Sering dipanggil Eko/Ndan. Saya menyukai bidang kom
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ekobud12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ekobud12" height="30" width="40" /></a>
-<a href="https://instagram.com/ekobud12" target="blank"><img align="center" src="https://raw.githubusercontent.com/ekobudigs/ekobudigs/main/website-design.png" alt="ekobud12" height="30" width="40" /></a>
+<a href="https://ndan-eko.000webhostapp.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ekobudigs/ekobudigs/main/website-design.png" alt="ekobud12"  /></a>
 </p>
 
 <h3 align="left">🔨 Languages and Tools:</h3>
