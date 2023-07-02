@@ -5,7 +5,7 @@ Saya lahir di Sidoarjo 💒. Sering dipanggil Eko/Ndan. Saya menyukai bidang kom
 <br/>
 <br/>
 
-<h3 align="center">I am a Junior Web Developer</h3>
+<h3 align="center">I am a  Web Developer</h3>
 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
