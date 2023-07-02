@@ -27,7 +27,7 @@ Saya lahir di Sidoarjo 💒. Sering dipanggil Eko/Ndan. Saya menyukai bidang kom
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ekobud12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ekobud12" height="30" width="40" /></a>
-<a href="https:ekobudi.my.id/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ekobudigs/ekobudigs/main/website-design.png" alt="ekobud12"  /></a>
+<a href="https://ekobudi.my.id/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ekobudigs/ekobudigs/main/website-design.png" alt="ekobud12"  /></a>
 </p>
 
 <h3 align="left">🔨 Languages and Tools:</h3>
